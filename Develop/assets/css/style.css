@@ -20,9 +20,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*.header h1 .seo {
     color: #d9dcd6;
-}
+}                                     /*Anuja remove unwanted code*/
 
 .header div {
     padding-top: 15px;
@@ -32,9 +32,9 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*.header div ul {
     list-style-type: none;
-}
+}                                         /* Anuja remove unwanted code*/
 
 .header div ul li {
     display: inline-block;
@@ -101,7 +101,7 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/*.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -114,7 +114,7 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+}                                   /*Anuja remove unwanted code*/
 
 .benefit-lead img {
     display: block;
@@ -173,7 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/*.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -186,7 +186,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+}                                          /* Anuja remove unwanted code*/
 
 .footer {
     padding: 30px;
