@@ -2,7 +2,7 @@
 
 ## Description
 
-This website is for marketing. Horiseon Marketing Website provide Search Engine Optimization, Online Reputation Managment and Social Media Marketing. In Search Engine Optimization increase website's visibility and find the right business. In Online Reputation Managment provide to control on search for business. In Social Media Marketing helps to determine which platforms are suited to brand using analytics, to find the right markets and increase lead generation. There is also lead generation,Brand Awareness and Cost Management tabs to manipulate product usages.
+Horiseon Marketing Website provide Search Engine Optimization, Online Reputation Managment and Social Media Marketing. In Search Engine Optimization increase website's visibility and find the right business. In Online Reputation Managment provide to control on search for business. In Social Media Marketing helps to determine which platforms are suited to brand using analytics, to find the right markets and increase lead generation. There is also lead generation,Brand Awareness and Cost Management tabs to manipulate product usages.
 
 ## Installation
 
@@ -18,3 +18,9 @@ N/A
 ## License
 
 N/A
+
+## Assets
+
+The following image demonstrates the website appearance:
+
+![Website](./Develop/assets/images/Screenshot-Assng-module-1.png)
